@@ -1,3 +1,5 @@
+# Write a program that calculates and prints the number of minutes in a year.
+
 minutes_in_hour = 60
 hours_in_day = 24
 days_in_year = 365

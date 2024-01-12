@@ -1,3 +1,5 @@
+# Write a program that takes the radius of a sphere (a floating-point number) as input and then outputs the sphere’s diameter, circumference, surface area, and volume.
+
 import math
 
 radius = float(input("Enter the radius of the sphere: "))
