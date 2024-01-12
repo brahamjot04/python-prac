@@ -5,11 +5,11 @@ print("New videos: $3.00 each")
 print("Old videos: $2.00 each")
 print("Do you want old videos or new videos?")
 switch = input("Enter 'n' for new videos and 'o' for old videos: ")
-if switch == 'n':
+if switch == 'n' | switch == 'N':
     new_videos = int(input("Enter the number of new videos rented: "))
     total_charge = new_videos * 3.00
     print("Total charge: $", total_charge)
-elif switch == 'o':
+elif switch == 'o' | switch == 'O':
     old_videos = int(input("Enter the number of old videos rented: "))
     total_charge = old_videos * 2.00
     print("Total charge: $", total_charge)
