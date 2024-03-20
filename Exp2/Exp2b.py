@@ -8,3 +8,5 @@ if (side1**2 == side2**2 == side3**2) or (side2**2 == side1**2 == side3**2) or (
     print("This is a right angled triangle")
 else:
     print("This is not a right angled triangle")
+
+
