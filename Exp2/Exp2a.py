@@ -8,7 +8,4 @@ if (side1 == side2 == side3):
     print("This is an equilateral traingle")
 else:
     print("This is not an equilateral triangle")
-
-
-
-
+    
